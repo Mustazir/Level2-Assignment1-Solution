@@ -1,4 +1,4 @@
-# Blo Post
+# Blog Post
 
 ## 1.What are some differences between interfaces and types in TypeScript?
 
@@ -105,7 +105,7 @@ class Person implements Greet {
 ### Conclusion
 Interfaces and types both play necessary roles in TypeScript, each best applied to specific cases. Apply interfaces to define object shapes or class contracts, and types to more complex cases involving unions, intersections, or aliasing. Understanding how they are different will help you write cleaner, more maintainable, and type-safe code.
 
-
+---
 
 ## 2.Provide an example of using union and intersection types in TypeScript.
 
